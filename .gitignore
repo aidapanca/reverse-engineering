@@ -1,13 +1,14 @@
 ﻿# Build
-/build/
-/lab2-cpp/build/
+**/build/
+**/pe_parser.exe
 *.obj
 *.o
 *.pdb
 *.ilk
 
+# Samples and archives
+**/lab2-samples/
+*.zip
+
 # Temporary files
 *.tmp
-
-/lab2-samples/
-/lab2-cpp/pe_parser.exe
